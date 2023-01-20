@@ -31,11 +31,23 @@ $ curl -v --ipv6 https://mefi.social
 
 255am, posting this WIP note.
 
+518am, reverted minimal change (unused LibreTranslate endpoint).
+Attempting deployment, to no avail.
+
+715am, made an alt account on hachyderm, and DM'ed myself, so I get notified of when the server returns.
+
+745am, got notified of the message.
+It looks like we're good to go!
+I kept an eye on it for an hour, and forgot to update the (new) status page.
+
 
 ## action items
 * consider add-ons from hosting
   * High Availability (19.00€/month)
   * Premium Support (33.00€/month)
 * [Investigate monitoring](https://github.com/pronoiac/mefi.social/issues/33)
-* set up a status page
+* set up a status page - [done!](https://status.mefi.social/)
 * chill out and wait for hosting, I guess?
+They responded:
+  * a single app server lost connectivity. i am not sure why; but a reboot got it fully operational again.
+  * 'high availability' option would have given you a secondary app server which would have kept your instance online, if only at slightly degraded performance.
