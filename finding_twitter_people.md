@@ -21,8 +21,8 @@ They ask for access to your Twitter account, to see who you follow.
   * can check Twitter lists
 * [Flock](https://mastodon-flock.vercel.app/)
   * waxy.org liked this, for the Windows 95-inspired interface
-  * Use Advanced mode for Hometown instances.
-  * This links to accounts on their home servers; using something like [the bookmarklet mentioned here, to load it on _your_ home instance](toggle_home_instance), is recommended.
+  * Use Advanced Mode for Hometown instances.
+    * Advanced Mode links to accounts on their home servers; using something like [the bookmarklet mentioned here, to load it on _your_ home instance](toggle_home_instance), is recommended.
 * [Twitodon](https://twitodon.com/)
   * only emits a CSV file
   * aggressively caches, so if your friends have migrated instances since they first ran this, it may be out of date; but, this might still be useful later, after the Twitter API shutdown
