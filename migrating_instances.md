@@ -58,10 +58,12 @@ On the new server:
 Set up an alias.
 It's within Settings / Account / Moving *from* a different account.
 
-After this point, you could lose all access to your old account.
+#### moving vs redirection
+With this step, you could lose access to your old account.
+You won't be able to edit the old profile, or make, edit, or delete posts.
 Handle or save notifications, DMs, etc.
 
-#### moving vs redirection
+There's a choice to make.
 Either one has a few notes on their page.
 This is a rough attempt to summarize.
 
@@ -95,3 +97,4 @@ Redoing the migration later - after the 30 day cooldown period? - could help wit
 * [@feditips@mstdn.social post](https://mstdn.social/@feditips/107939441820299376)
 * [Coding It Wrong >> Migrating a Mastodon Account](https://codingitwrong.com/2022/10/10/migrating-a-mastodon-account.html)
 * [Julia Evans, on troubleshooting migration](https://social.jvns.ca/@b0rk/109702593487773525)
+* [@adamcr, on last-minute edits](https://mastodon.lol/@adamcr/109837226707470902)
