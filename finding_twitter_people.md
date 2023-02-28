@@ -5,6 +5,7 @@ Perhaps you want to check out Mastodon, and see which friends have already done 
 There are a number of web apps that can help with that.
 Note, these are expected to stop working soon, for both scheduled and unscheduled reasons:
 * on 2023-02-09, the unpaid Twitter API is scheduled to close
+  * 2023-02-28 - this still hasn't happened
 * Twitter's been locking out apps without warning
 
 
