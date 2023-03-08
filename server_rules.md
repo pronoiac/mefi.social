@@ -36,3 +36,6 @@ I'm including this copy in the repo because I wanted:
 * links to the other discussions
 
 A Mastodon thread and a Github issue weren't great for these.
+
+## thanks / credit
+Zumbador and majick made some great suggestions!
