@@ -15,9 +15,6 @@ They ask for access to your Twitter account, to see who you follow.
 
 
 ## show me the apps
-* [Debirdify](https://debirdify.pruvisto.org/)
-  * also can check for followers, blocked accounts, muted accounts
-  * has a nifty chart for "where your follows went", if you're deciding on which Mastodon instance to join
 * [Fedifinder](https://fedifinder.glitch.me/)
   * can check Twitter lists
 * [Flock](https://mastodon-flock.vercel.app/)
@@ -30,3 +27,7 @@ They ask for access to your Twitter account, to see who you follow.
 
 Not working here:
 * ~[Movetodon](https://www.movetodon.org/)~ was locked out from Twitter on 2023-02-03
+* ~[Debirdify](https://debirdify.pruvisto.org/)~
+  * also can check for followers, blocked accounts, muted accounts
+  * has a nifty chart for "where your follows went", if you're deciding on which Mastodon instance to join
+  * went offline by 2023-04-06
